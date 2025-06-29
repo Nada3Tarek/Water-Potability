@@ -1,3 +1,7 @@
+![Jupyter Notebook](https://img.shields.io/badge/Notebook-Jupyter-orange?logo=jupyter)
+![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python)
+![ML](https://img.shields.io/badge/Machine%20Learning-SVM%2C%20DT-success?logo=scikit-learn)
+
 # Water-Potability
 AI project to predict whether water is drinkable or not using SVM, Decision Tree, and other ML models.
 # 💧 Water Potability Prediction using AI
